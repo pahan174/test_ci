@@ -1,5 +1,6 @@
 # test_ci
 
+тестовый репозитарий
 
 
 ## Getting started
