@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.1.1 (2025-04-13)
+
+### Bug Fixes
+
+- Исправил ошибку в ендпоинте items2
+  ([`b353566`](https://github.com/pahan174/test_ci/commit/b3535667910d4f3e1f073c32f642cec3b6c1c536))
+
+
 ## v0.1.0 (2025-04-13)
 
 
