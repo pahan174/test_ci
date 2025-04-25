@@ -1,12 +1,20 @@
 # CHANGELOG
 
 
+## v0.3.0 (2025-04-25)
+
+
 ## v0.2.3 (2025-04-25)
 
 ### Bug Fixes
 
 - Исправил настройки version_variables
   ([`08d5049`](https://github.com/pahan174/test_ci/commit/08d5049dc6c6e4b27c8efdd0ae3718bbbc782f6f))
+
+### Features
+
+- Добавил версию в pyproject.toml
+  ([`7ebe6f6`](https://github.com/pahan174/test_ci/commit/7ebe6f614919e776efaa04e1ee2f10948ffea7ef))
 
 
 ## v0.2.2 (2025-04-25)
