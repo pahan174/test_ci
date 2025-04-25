@@ -1,12 +1,18 @@
 # CHANGELOG
 
 
+## v0.2.2 (2025-04-25)
+
+
 ## v0.2.1 (2025-04-13)
 
 ### Bug Fixes
 
 - Исправил releaserc.toml
   ([`f5922e9`](https://github.com/pahan174/test_ci/commit/f5922e97237997eb178188f7ae14872367cad3f8))
+
+- Исправил настройки CO
+  ([`7990df4`](https://github.com/pahan174/test_ci/commit/7990df447202744dcb060c6272126a8f46ccc1d3))
 
 
 ## v0.2.0 (2025-04-13)
