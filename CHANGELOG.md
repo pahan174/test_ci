@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.2.3 (2025-04-25)
+
+### Bug Fixes
+
+- Исправил настройки version_variables
+  ([`08d5049`](https://github.com/pahan174/test_ci/commit/08d5049dc6c6e4b27c8efdd0ae3718bbbc782f6f))
+
+
 ## v0.2.2 (2025-04-25)
 
 
