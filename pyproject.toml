@@ -1,5 +1,8 @@
+[project]
+name = "pet-travel"
+version = "0.1.0"
 [tool.semantic_release]
-version_variables = ["app/__init__.py:__version__"]
+version_variables = ["app/__init__.py:__version__", "pyproject.toml:version"]
 branch = "main"
 upload_to_pypi = false
 commit_version_number = true
