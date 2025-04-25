@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.2.1 (2025-04-13)
+
+### Bug Fixes
+
+- Исправил releaserc.toml
+  ([`f5922e9`](https://github.com/pahan174/test_ci/commit/f5922e97237997eb178188f7ae14872367cad3f8))
+
+
 ## v0.2.0 (2025-04-13)
 
 ### Documentation
